@@ -1,4 +1,4 @@
-# #125 standalone BUSY coordinator
+# Busy Coordinator
 
 Purpose: keep exact shared-mutation ownership outside the MCP tool schema without creating a second authority or turning coordination into a work queue.
 
